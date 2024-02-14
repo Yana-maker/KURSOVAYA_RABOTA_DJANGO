@@ -1,1 +1,1 @@
-# KURSOVAYA_RABOTA_DJANGO
+# КУРСОВАЯ РАБОТА ПО ДЖАНГО
